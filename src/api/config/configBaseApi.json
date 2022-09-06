@@ -1,0 +1,18 @@
+{
+    "config": {
+        "endpointInvetory": {
+            "inventory_info": "https://localhost:44383/api/Inventory/",
+            "inventory_detail": "https://localhost:44383/api/Inventory/"
+        },
+        "method": [
+            "GET",
+            "POST",
+            "PUT",
+            "DELETE"
+        ],
+        "headers":[
+            "Content-Type",
+            "application/json"
+        ]
+    }
+}

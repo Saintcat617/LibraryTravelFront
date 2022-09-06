@@ -1,0 +1,14 @@
+{
+    "response": {
+        "inventory" : {
+            "IdAuthor": 0,
+            "ISBNBook": 0,
+            "Author": "",
+            "Book": "",
+            "Synopsis": "",
+            "NumberPages": 0,
+            "Editorial": "",
+            "Campus": ""
+        }
+    }
+}
